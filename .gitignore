@@ -1,0 +1,22 @@
+
+# Maven build directory
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Backup files
+*~
+
+# Test reports
+surefire-reports/
